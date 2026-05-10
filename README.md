@@ -6,7 +6,7 @@
 🚀 Exploring real-world projects and continuously improving my problem-solving skills  
 
 ## 🚀 Tech Stack
-
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
