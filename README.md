@@ -43,6 +43,6 @@
 
 ## 📊 GitHub Stats
 
-![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarya3106&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aarya3106&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarya3106&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aarya3106&theme=github_dark)
