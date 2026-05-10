@@ -38,3 +38,11 @@
 
 - GitHub: https://github.com/aarya3106
 - LinkedIn : www.linkedin.com/in/aarya-kashikar-16536431b
+
+---
+
+## 📊 GitHub Stats
+
+![Aarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aarya3106&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarya3106&layout=compact&theme=tokyonight)
